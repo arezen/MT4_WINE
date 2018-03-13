@@ -1,3 +1,3 @@
-# metaTrader
+# MetaTraderWine
 
-This repo is ment to help running mettrader 4 on libux system via WINE. 
+This repo is meant to help running MetaTrader4 on libux system via WINE. 
